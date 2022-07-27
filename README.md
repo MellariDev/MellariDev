@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MellariDev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning WordPress and eCommerce
-- 💞️ I’m looking to collaborate on basic website projects or the learning process
+- 💞️ I’m looking to collaborate on basic website projects and the learning process
 - 📫 How to reach me: delia.grimwood@gmail.com
 
 <!---
