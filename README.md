@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MellariDev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning WordPress and eCommerce
-- 💞️ I’m looking to collaborate on basic website projects and the learning process
-- 📫 How to reach me: delia.grimwood@gmail.com
+- 👋 Hi, I'm Delia Grimwood
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning TypeScript and how to build an API
+- 📫 You can reach me through email at delia.grimwood@gmail.com
 
 <!---
 MellariDev/MellariDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
