@@ -12,9 +12,9 @@
 
 ### <!--Bio-->
 
-<p align="left">I am a people person who prioritizes empathy and coordination in every environment. Combining my technical, creative, and empathetic points of view, I aim to create a balanced and innovative workspace.
+<p align="left">As a dedicated front-end developer, I bring a unique combination of technical expertise, creative vision, and empathetic understanding to every project. Passionate about accessibility, efficiency, and user enjoyment, I thrive on creating websites that not only function flawlessly but also provide a delightful user experience. 
   
-My passion lies in accessibility, efficiency, and enjoyment. I enjoy creating websites, exploring UI//UX design,  and expanding upon pre-existing ideas with my creative take.</p>
+From exploring UI/UX design to pushing the boundaries of pre-existing ideas, I'm constantly seeking new ways to innovate and improve.</p>
 
 ###
 
